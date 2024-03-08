@@ -1,0 +1,309 @@
+{
+    "P177": [
+        {
+            "tokens": [
+                "In",
+                "June",
+                "1987",
+                ",",
+                "the",
+                "Missouri",
+                "Highway",
+                "and",
+                "Transportation",
+                "Department",
+                "approved",
+                "design",
+                "location",
+                "of",
+                "a",
+                "new",
+                "four",
+                "-",
+                "lane",
+                "Mississippi",
+                "River",
+                "bridge",
+                "to",
+                "replace",
+                "the",
+                "deteriorating",
+                "Cape",
+                "Girardeau",
+                "Bridge",
+                "."
+            ],
+            "h": [
+                "cape girardeau bridge",
+                "Q5034838",
+                [
+                    [
+                        26,
+                        27,
+                        28
+                    ]
+                ]
+            ],
+            "t": [
+                "mississippi river",
+                "Q1497",
+                [
+                    [
+                        19,
+                        20
+                    ]
+                ]
+            ]
+        }
+    ],
+    "P364": [
+        {
+            "tokens": [
+                "Kaaviya",
+                "Thalaivi",
+                "(",
+                "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                ":",
+                "\u0b95\u0bbe\u0bb5\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bb2\u0bc8\u0bb5\u0bbf",
+                ",",
+                ")",
+                "is",
+                "a",
+                "Tamil",
+                "language",
+                "film",
+                "was",
+                "directed",
+                "by",
+                "K.",
+                "Balachandar",
+                "."
+            ],
+            "h": [
+                "kaaviya thalaivi",
+                "Q24905846",
+                [
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "t": [
+                "tamil language",
+                "Q5885",
+                [
+                    [
+                        10,
+                        11
+                    ]
+                ]
+            ]
+        }
+    ],
+    "P2094": [
+        {
+            "tokens": [
+                "G\u00f3mez",
+                "has",
+                "had",
+                "some",
+                "success",
+                "at",
+                "heavyweight",
+                ",",
+                "capturing",
+                "wins",
+                "over",
+                "Sinan",
+                "Samil",
+                "Sam",
+                "and",
+                "David",
+                "Defiagbon",
+                ",",
+                "but",
+                "was",
+                "shockingly",
+                "TKO'd",
+                "by",
+                "fellow",
+                "Cuban",
+                "Yanqui",
+                "D\u00edaz",
+                "in",
+                "the",
+                "first",
+                "round",
+                "in",
+                "2004",
+                "."
+            ],
+            "h": [
+                "yanqui d\u00edaz",
+                "Q8048948",
+                [
+                    [
+                        25,
+                        26
+                    ]
+                ]
+            ],
+            "t": [
+                "heavyweight",
+                "Q281678",
+                [
+                    [
+                        6
+                    ]
+                ]
+            ]
+        }
+    ],
+    "P361": [
+        {
+            "tokens": [
+                "Following",
+                "the",
+                "release",
+                "of",
+                "\"",
+                "The",
+                "Simpsons",
+                "\"",
+                "thirteenth",
+                "season",
+                ",",
+                "\"",
+                "Tales",
+                "from",
+                "the",
+                "Public",
+                "Domain",
+                "\"",
+                "received",
+                "mixed",
+                "reviews",
+                "from",
+                "critics",
+                "."
+            ],
+            "h": [
+                "tales from the public domain",
+                "Q2578584",
+                [
+                    [
+                        12,
+                        13,
+                        14,
+                        15,
+                        16
+                    ]
+                ]
+            ],
+            "t": [
+                "thirteenth season",
+                "Q1574811",
+                [
+                    [
+                        8,
+                        9
+                    ]
+                ]
+            ]
+        }
+    ],
+    "P641": [
+        {
+            "tokens": [
+                "Bob",
+                "Gaudet",
+                "is",
+                "an",
+                "American",
+                "ice",
+                "hockey",
+                "coach",
+                "who",
+                "has",
+                "served",
+                "as",
+                "the",
+                "head",
+                "coach",
+                "at",
+                "Dartmouth",
+                "since",
+                "1997",
+                "."
+            ],
+            "h": [
+                "bob gaudet",
+                "Q17517084",
+                [
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "t": [
+                "ice hockey",
+                "Q41466",
+                [
+                    [
+                        5,
+                        6
+                    ]
+                ]
+            ]
+        },
+        {
+            "tokens": [
+                "She",
+                "played",
+                "her",
+                "best",
+                "tennis",
+                "in",
+                "team",
+                "competitions",
+                ",",
+                "beating",
+                "Sloane",
+                "Stephens",
+                "in",
+                "the",
+                "Fed",
+                "Cup",
+                "and",
+                "winning",
+                "the",
+                "Swedish",
+                "league",
+                "with",
+                "Helsingborg",
+                "."
+            ],
+            "h": [
+                "fed cup",
+                "Q1571178",
+                [
+                    [
+                        14,
+                        15
+                    ]
+                ]
+            ],
+            "t": [
+                "tennis",
+                "Q847",
+                [
+                    [
+                        4
+                    ]
+                ]
+            ]
+        }
+    ]
+}
